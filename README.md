@@ -1,17 +1,15 @@
 # Olá! Eu sou o Augusto Kayo 
 
-
-  Tenho 19 anos, sou de Brasília e tenho 1 ano de experiência como Programador.
+### Programador Fullstack Júnior.
 
 
 <div style="display: inline_block"><br>
   
-  ## Linguagens que eu utilizo:
+  ## Skills:
   
-  <img align="center" alt="Augusto-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Augusto-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-plain.svg">
-</div>
-
-## Frameworks: 
-
-Undefined
+  <img align="center" alt="Augusto-Js" height="40" width="120" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Augusto-Js" height="40" width="120" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Augusto-Js" height="40" width="120" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="Augusto-Js" height="40" width="150" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Augusto-Js" height="40" width="120" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Augusto-Js" height="40" width="120" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
