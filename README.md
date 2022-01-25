@@ -1,6 +1,6 @@
 # Olá! Eu sou o Augusto Kayo 
 
-### Programador Fullstack Júnior.
+### Desenvolvedor Júnior Fullstack.
 
 
 <div style="display: inline_block"><br>
