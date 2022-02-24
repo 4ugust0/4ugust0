@@ -22,6 +22,3 @@
   * NODEJS
   * REACTJS
   * TYPESCRIPT
-
-  
-  ![Snake animation](https://github.com/4ugust0/4ugust0/blob/output/github-contribution-grid-snake.svg)
