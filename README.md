@@ -1,6 +1,6 @@
 # Olá! Eu sou o Augusto Kayo 
 
-### Desenvolvedor Júnior Fullstack.
+### Desenvolvedor Pleno Fullstack.
 
 Meu nome é Augusto Kayo, **nascido em 2003**, sempre tive um amor muito grande pelo computador e adimirava muito quem fazia sites,jogos e aplicativos, eu tinha em mente que era **só para Gênios**, meu avô me incentivou a entrar no mundo dos códigos, foi a partir desse momento que comecei a explorar o mundo da programação... e simplesmente apaixonei pelos códigos e percebi que não existe **"só para Gênios..."** e então estou aqui evoluindo cada vez mais.
 
