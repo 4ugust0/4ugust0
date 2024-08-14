@@ -14,8 +14,8 @@ Você pode acompanhar os projetos e informações sobre o mundo tecnológico tan
 URL: https - esta em construção - primeiramente estou focando nos projetos.
 
 ## Contato:<br>
-Instagram: @augusto.kayo.7 <a target="_blank" href="https://www.instagram.com/augusto.kayo.7/">Clique aqui para ser direcionado</a><br>
-Linkedin: <a target="_blank" href="https://www.linkedin.com/in/augusto-kayo-001050267/">Clique aqui para ser direcionado</a><br>
+Instagram: <a href="https://www.instagram.com/augusto.kayo.7/">Clique aqui para ser direcionado</a><br>
+Linkedin: <a href="https://www.linkedin.com/in/augusto-kayo-001050267/">Clique aqui para ser direcionado</a><br>
 E-mail: augustokayorodriguesramos@gmail.com<br>
 
 <div style="display: inline_block"><br>
