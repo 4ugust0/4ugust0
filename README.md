@@ -9,6 +9,15 @@ Muito obrigado pela sua atenção.
 
 Seja bem vindo(a) ao novo mundo, onde tudo é **online!**
 
+## Informações adicionais:
+Você pode acompanhar os projetos e informações sobre o mundo tecnológico tanto aqui no meu perfil quanto no meu site/blog
+URL: https - esta em construção - primeiramente estou focando nos projetos.
+
+## Contato:
+Instagram: @augusto.kayo.7
+Linkedin: <a href="https://www.linkedin.com/in/augusto-kayo-001050267/">Clique aqui para ser direcionado</a>
+E-mail: augustokayorodriguesramos@gmail.com
+
 <div style="display: inline_block"><br>
 
   ## Skills:
