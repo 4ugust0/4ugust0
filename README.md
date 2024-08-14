@@ -7,11 +7,7 @@ Meu nome é Augusto Kayo, **nascido em 2003**, sempre tive um amor muito grande 
 Fico feliz por você ter lido até aqui! 
 Muito obrigado pela sua atenção.
 
-A nova geração vai chegar com tudo no mundo digital. 
 Seja bem vindo(a) ao novo mundo, onde tudo é **online!**
-
-Se quiser pegar algumas informações, dê uma passada nos **repositórios públicos** e aproveite cada um!
-Estou aqui para contribuir na comunidade DEV.
 
 <div style="display: inline_block"><br>
 
@@ -25,3 +21,11 @@ Estou aqui para contribuir na comunidade DEV.
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
