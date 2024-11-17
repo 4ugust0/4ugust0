@@ -17,6 +17,7 @@ URL: https - esta em construção - primeiramente estou focando nos projetos.
 Instagram: <a href="https://www.instagram.com/augusto.kayo.7/">Clique aqui para ser direcionado</a><br>
 Linkedin: <a href="https://www.linkedin.com/in/augusto-kayo-001050267/">Clique aqui para ser direcionado</a><br>
 E-mail: augustokayorodriguesramos@gmail.com<br>
+Meu portfólio: https://4ugust0.vercel.app/
 
 <div style="display: inline_block"><br>
 
