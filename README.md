@@ -10,14 +10,13 @@ Muito obrigado pela sua atenção.
 Seja bem vindo(a) ao novo mundo, onde tudo é **online!**
 
 ## Informações adicionais:<br>
-Você pode acompanhar os projetos e informações sobre o mundo tecnológico tanto aqui no meu perfil quanto no meu site/blog<br>
-URL: https - esta em construção - primeiramente estou focando nos projetos.
+Você pode acompanhar os projetos e informações sobre o mundo tecnológico tanto aqui no meu perfil quanto no meu site<br>
+URL: https://4ugust0.vercel.app/
 
 ## Contato:<br>
 Instagram: <a href="https://www.instagram.com/augusto.kayo.7/">Clique aqui para ser direcionado</a><br>
 Linkedin: <a href="https://www.linkedin.com/in/augusto-kayo-001050267/">Clique aqui para ser direcionado</a><br>
 E-mail: augustokayorodriguesramos@gmail.com<br>
-Meu portfólio: https://4ugust0.vercel.app/
 
 <div style="display: inline_block"><br>
 
