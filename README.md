@@ -1,26 +1,29 @@
 # Olá! Eu sou o Augusto Kayo 
 
-### Desenvolvedor Fullstack.
+### Developer Fullstack.
 
-Meu nome é Augusto Kayo, **nascido em 2003**, sempre tive um amor muito grande pelo computador e adimirava muito quem fazia sites,jogos e aplicativos, eu tinha em mente que era **só para Gênios**, meu avô me incentivou a entrar no mundo dos códigos, foi a partir desse momento que comecei a explorar o mundo da programação... e simplesmente apaixonei pelos códigos e percebi que não existe **"só para Gênios..."** e então estou aqui evoluindo cada vez mais.
+My name is Augusto Kayo, **born in 2008**
 
-Fico feliz por você ter lido até aqui! 
-Muito obrigado pela sua atenção.
+My name is Augusto Kayo, **born in 2003**, I have always had a great love for computers and I admired those who created websites, games and applications, I had in mind that it was **only for Geniuses**, my grandfather encouraged me to enter the world of codes, it was from that moment that I began to explore the world of programming... and I simply fell in love with codes and realized that there is no such thing as **"only for Geniuses..."** and so here I am, evolving more and more.
 
-Seja bem vindo(a) ao novo mundo, onde tudo é **online!**
+I am happy that you have read this far!
 
-## Informações adicionais:<br>
-Você pode acompanhar os projetos e informações sobre o mundo tecnológico tanto aqui no meu perfil quanto no meu site<br>
+Thank you very much for your attention.
+
+Welcome to the new world, where everything is **online!**
+
+## Additional information:<br>
+You can follow the projects and information about the technological world both here on my profile and on my website<br>
 URL: https://4ugust0.vercel.app/
 
-## Contato:<br>
-Instagram: <a href="https://www.instagram.com/augusto.kayo.7/">Clique aqui para ser direcionado</a><br>
-Linkedin: <a href="https://www.linkedin.com/in/augusto-kayo-001050267/">Clique aqui para ser direcionado</a><br>
+## Contact:<br>
+Instagram: <a href="https://www.instagram.com/augusto.kayo.7/">Click here to be redirected</a><br>
+Linkedin: <a href="https://www.linkedin.com/in/augusto-kayo-001050267/">Click here to be redirected</a><br>
 E-mail: augustokayorodriguesramos@gmail.com<br>
 
 <div style="display: inline_block"><br>
 
-  ## Habilidades Profissionais:
+  ## Professional Skills:
   
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -37,7 +40,7 @@ E-mail: augustokayorodriguesramos@gmail.com<br>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
-  ## Habilidades em construção (Estudando/praticando):
+  ## Professional building (Learning/practicing):
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
